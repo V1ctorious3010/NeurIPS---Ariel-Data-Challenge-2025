@@ -1,2 +1,2 @@
 # NeurIPS - Ariel Data Challenge 2025
-bronze medal solution
+Bronze medal solution(71 / 860)
